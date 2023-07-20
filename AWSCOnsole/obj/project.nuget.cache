@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q7JISErpYfIa30GCTb1PxkJGVFNTCvlgUoIj4idDdaid45o73OETFjUfgWmY1MjStogmmvrBlWwyfQv8TdfCPA==",
+  "dgSpecHash": "CrYIJ4yM+ODSA1JxMDxRTxZjlocj5LgD2YwiJenNrId7kpWqI36K1Ab2vN8yoW8DlW4kvTY9z6N5zC4LRGFshQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\TerraformRepo\\AWSCOnsole\\AWSCOnsole.csproj",
+  "projectFilePath": "C:\\Users\\Pradeepa.lakshmanan\\source\\repos\\AWsConsoleApplication\\AWSCOnsole\\AWSCOnsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
