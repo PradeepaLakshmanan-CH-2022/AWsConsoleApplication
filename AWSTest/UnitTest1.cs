@@ -10,7 +10,7 @@ namespace AWSTest
         public void TestMethod1()
         {
        
-            var expected = "Hello World";
+            var expected = "Hello Kavinya,Code Pipeline created and deployed successfully";
             var actual = hello.GetName();
             
             Assert.AreEqual(expected, actual);  
